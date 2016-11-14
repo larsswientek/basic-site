@@ -1,0 +1,10 @@
+nav {
+	text-align: center;
+	margin: 40px;
+	font-size: 2em;
+}
+
+nav ul li {
+	display: inline;
+	margin: 10px 10px;
+}
